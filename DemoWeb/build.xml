@@ -67,7 +67,7 @@
     nbproject/build-impl.xml file. 
 
     -->
-	<target name="compile">
+	<target name="dist">
     <echo message="Compiling source code"/>
 </target>
 </project>
